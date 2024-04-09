@@ -1,0 +1,5 @@
+b : Paris
+a : William_Shakespeare
+c : H2O
+c : Mars
+b : Mitochondria
