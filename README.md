@@ -2,6 +2,11 @@
 
 This is a simple Bash script for an online exam system. Users can create an account, log in, take the exam, and view their results.
 
+## Demo
+
+![shell](https://github.com/praveensg0/exam-shell/assets/144553645/0ecdcc69-5622-4d62-b8a6-786b66b2da92)
+
+
 ## Features
 
 - **User Authentication:** Users can create an account with a unique username and password.
