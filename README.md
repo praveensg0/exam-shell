@@ -4,7 +4,7 @@ This is a simple Bash script for an online exam system. Users can create an acco
 
 ## Demo
 
-![shell](https://github.com/praveensg0/exam-shell/assets/144553645/0ecdcc69-5622-4d62-b8a6-786b66b2da92)
+[shelldemo.webm](https://github.com/praveensg0/exam-shell/assets/144553645/368d9648-8dcb-444e-857e-d470026feae8)
 
 
 ## Features
